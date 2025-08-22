@@ -1,10 +1,10 @@
 # RockbusterStealthSQL
-CF Data Immersion Achievement 3; SQL queries for Rockbuster Stealth analysis project
+CareerFoundry Data Immersion Achievement 3; SQL queries for Rockbuster Stealth analysis project
 
 # Rockbuster Stealth Data Analysis Project
 
 ## Intrduction
-This reposiory contains the SQL-based analysis of the fictional movie rental company Rockbuster Stealth LLC. Known for having stores around the world, they are now  facing stiff competition from streaming services such as Netflix and Amazon Prime. Therefore, the Rockbuster Stealth management team is planning to use its existing movie licenses to
+This repository contains the SQL-based analysis of the fictional movie rental company Rockbuster Stealth LLC. Known for having stores around the world, they are now  facing stiff competition from streaming services such as Netflix and Amazon Prime. Therefore, the Rockbuster Stealth management team is planning to use its existing movie licenses to
 launch an online video rental service in order to stay competitive.
 
 ## Key Questions and Objectives
