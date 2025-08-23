@@ -20,4 +20,3 @@ the main questions they’d like to answer:
 ## Tools and Data
 This project utilized pgAdmin 4 and PostgreSQL to analyze Rockbuster's relational database management system, which includes several files with information about inventory, customers, payments, stores, staff, and more. Visualizations were created using Tableau.
 
-Final presentation can be viewed here: https://public.tableau.com/shared/2TBXXCFMF?:display_count=n&:origin=viz_share_link
