@@ -1,4 +1,4 @@
-# Exercise 3.7 covered joining tables of data.
+# Exercise 3.7 covered joining tables of data. Below are the instructions, SQL queries and outputs. 
 
 ##  Rockbuster’s management team would like to know the top 10 countries where Rockbuster customers are based so they can focus on building a better brand image in those markets.
 
@@ -20,7 +20,7 @@ information.
 
 ### Step 2: Next, write a query to identify the top 10 cities that fall within the top 10 countries you identified in step 1.
 
-![Image of Code and output(images/Ex3.7step2.png)
+![Image of Code and output](images/Ex3.7step2.png)
 
 #### Write a short explanation of how you approached this query and why.
 Here I simply added to the query I had already written to identify the top 10 countries. I added
