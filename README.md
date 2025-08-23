@@ -1,8 +1,7 @@
 # Rockbuster Stealth Data Analysis Project
 
-## Intrduction
-This repository contains the SQL-based analysis of the fictional movie rental company Rockbuster Stealth LLC. Known for having stores around the world, they are now  facing stiff competition from streaming services such as Netflix and Amazon Prime. Therefore, the Rockbuster Stealth management team is planning to use its existing movie licenses to
-launch an online video rental service in order to stay competitive.
+## Introduction
+This repository contains the SQL-based analysis of the fictional movie rental company Rockbuster Stealth LLC. Known for having stores around the world, they are now facing stiff competition from streaming services such as Netflix and Amazon Prime. Therefore, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 
 ## Key Questions and Objectives
 The Rockbuster Stealth Management Board has asked a series of business questions and
