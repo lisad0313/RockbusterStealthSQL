@@ -1,6 +1,3 @@
-# RockbusterStealthSQL
-CareerFoundry Data Immersion Achievement 3; SQL queries for Rockbuster Stealth analysis project
-
 # Rockbuster Stealth Data Analysis Project
 
 ## Intrduction
