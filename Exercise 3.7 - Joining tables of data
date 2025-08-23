@@ -4,6 +4,4 @@
 
 ### Step 1: Write a query to find the top 10 countries for Rockbuster in terms of customer numbers. 
 
-git add images/Ex 3.7 step 1.png
-git commit -m "Add Ex 3.7 step 1
-git push
+![Image of code and output](images/screenshot.png)
